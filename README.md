@@ -12,4 +12,5 @@
 |       1       |   [`coding-hometask-1.ipynb`](http://nbviewer.jupyter.org/github/dainiak/discrete-optimization-course/blob/master/coding-hometask-1.ipynb)   |   19 марта 23:59:55 MSK   |
 |       2       | [`coding-hometask-2-1.ipynb`](http://nbviewer.jupyter.org/github/dainiak/discrete-optimization-course/blob/master/coding-hometask-2-1.ipynb) |   27 марта 23:59:55 MSK   |
 |       3       | [`coding-hometask-2-2.ipynb`](http://nbviewer.jupyter.org/github/dainiak/discrete-optimization-course/blob/master/coding-hometask-2-2.ipynb) |   9 апреля 23:59:55 MSK   |
-|       4       | [`coding-hometask-3-1.ipynb`](http://nbviewer.jupyter.org/github/dainiak/discrete-optimization-course/blob/master/coding-hometask-3-1.ipynb) | **2 апреля** 23:59:55 MSK |
+|       4       | [`coding-hometask-3-1.ipynb`](http://nbviewer.jupyter.org/github/dainiak/discrete-optimization-course/blob/master/coding-hometask-3-1.ipynb) |   2 апреля 23:59:55 MSK   |
+|       5       | [`coding-hometask-3-2.ipynb`](http://nbviewer.jupyter.org/github/dainiak/discrete-optimization-course/blob/master/coding-hometask-3-2.ipynb) |   17 апреля 23:59:55 MSK   |
